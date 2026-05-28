@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/safibase/static/css/main.731a2540.css",
+    "main.js": "/safibase/static/js/main.52317fe0.js",
+    "index.html": "/safibase/index.html",
+    "main.731a2540.css.map": "/safibase/static/css/main.731a2540.css.map",
+    "main.52317fe0.js.map": "/safibase/static/js/main.52317fe0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.731a2540.css",
+    "static/js/main.52317fe0.js"
+  ]
+}
