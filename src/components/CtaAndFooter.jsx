@@ -56,7 +56,8 @@ export function CtaSection() {
           className="flex flex-col sm:flex-row items-center justify-center gap-4"
         >
           <a
-            href="#audit-form"
+            href="mailto:hello@safibase.ca"
+            href="https://linkedin.com/company/safibase"
             className="group inline-flex items-center gap-2.5 px-8 py-4 rounded-xl
               bg-brand-800 text-brand-50 font-body font-semibold text-base
               hover:bg-brand-900 transition-all duration-200 shadow-warm-lg hover:shadow-warm-xl
@@ -116,11 +117,11 @@ export function Footer() {
           <div className="flex items-center gap-4">
             {/* Email */}
             <a
-              href="mailto:hello@safibase.com" /* ← update this */
+              href="mailto:hello@safibase.ca" /* ← update this */
               className="text-sm font-body text-brand-500 hover:text-brand-200 transition-colors duration-200"
               aria-label="Email SafiBase"
             >
-              hello@safibase.com
+              hello@safibase.ca
             </a>
             {/* LinkedIn */}
             <a
